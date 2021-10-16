@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="Julian Messina">
+    <link rel="shortcut icon" href="../../docs-assets/ico/favicon.png">
+    <title>Julian Messina </title>
+    <!-- Bootstrap core CSS -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="assets/css/main.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="assets/js/hover.zoom.js"></script>
+    <script src="assets/js/hover.zoom.conf.js"></script>
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>    <![endif]-->
+  </head>
+  <body> <!-- Static navbar -->
+    <div class="navbar navbar-inverse navbar-static-top">
+      <div class="container">
+        <div class="navbar-header"> <button type="button" class="navbar-toggle"
+
+            data-toggle="collapse" data-target=".navbar-collapse"> <span class="icon-bar"></span>
+            <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+          <a class="navbar-brand" href="index.html">JULIÁN MESSINA</a> </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown"
+
+                href="#">Research <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="research.html">Papers by Topic</a></li>
+                <li><a href="publications.html">Publications</a></li>
+                <li><a href="wpapers.html">Working Papers</a></li>
+              </ul>
+            </li>
+            <li><a href="books.html">Books</a></li>
+            <li><a href="assets/papers/CVMessina1.pdf" target="_blank">CV</a></li>
+            <li><a href="mailto:julianm@iadb.org">Contact</a></li>
+          </ul>
+        </div>
+        <!--/.nav-collapse --> </div>
+    </div>
+    <!-- +++++ Papers Section +++++ -->
+    <div class="container pt">
+      <div class="row mt">
+        <div class="col-lg-6 col-lg-offset-3 centered">
+          <h3>ONGOING RESEARCH</h3>
+          <hr>
+          <p> </p>
+        </div>
+        <div class="col-lg-12">
+          <h4>WORKING PAPERS</h4>
+          <p> </p>
+          <p> <a href="assets/papers/ROIW2017.pdf" target="_blank">Minimum
+              Wage: Does it Improve Welfare in Thailand?</a><br>
+            Ximena del Carpio, Julián Messina and Anna Sanz de Galdeano<br>
+            <i>Review of Income and Wealth (Forthcoming).</i> <button type="button"
+
+              class="btn btn-link" data-toggle="collapse" data-target="#MWTH">Abstract</button>
+          </p>
+          <div id="MWTH" class="collapse"> We study the causal impact of the
+            minimum wage on labor market outcomes, household consumption,
+            inequality and poverty in Thailand by relying on policy variation in
+            minimum wages over time across provinces. We find that minimum-wage
+            increases have a large and significant impact on the likelihood of
+            working in the uncovered sector among workers with elementary
+            education. However, the impact is very small and insignificant among
+            other labor market groups. In contrast, the minimum wage has large
+            positive effects on the formal sector wages of low-earning workers,
+            such as the young, elderly and low educated. Increases in the
+            minimum wage are associated with reductions in household poverty and
+            consumption inequality at the bottom half of the distribution. </div>
+          <p></p>
+          <p> <a href="assets/papers/CMNS_FLSLA_66.pdf" target="_blank">Firm-Level
+              Shocks and Labor Flows</a>. <u>New Version.</u><br>
+            Previously circulated as <a href="http://www.riksbank.se/Documents/Rapporter/Working_papers/2014/rap_wp293_141217.pdf"
+
+              target="_blank">Firm-Level Shocks and Labor Adjustments</a><br>
+            Mikael Carlsson, Julián Messina and Oskar Nordström-Skans. <button
+
+              type="button" class="btn btn-link" data-toggle="collapse" data-target="#Sweden2">Abstract</button>
+          </p>
+          <div id="Sweden2" class="collapse"> We analyze how labor flows respond
+            to idiosyncratic shifts in firm-level production functions and
+            demand curves using very detailed Swedish micro data. Shocks to
+            firms' physical productivity have only modest effects on firm-level
+            employment decisions. In contrast, we document rapid and substantial
+            employment adjustments through both hires and separations in
+            response to firm-level demand shocks. The choice of adjustment
+            margin depends on the sign of the shock: Firms adjust through
+            increased hires if these shocks are positive and through increased
+            separations if the shocks are negative. </div>
+          <p></p>
+          <p> <a href="assets/papers/FFM.pdf" target="_blank">Ageing poorly? :
+              accounting for the decline in earnings inequality in Brazil,
+              1995-2012</a><br>
+            Francisco Ferreira, Sergio Firpo and Julián Messina <button type="button"
+
+              class="btn btn-link" data-toggle="collapse" data-target="#FFM">Abstract</button>
+          </p>
+          <div id="FFM" class="collapse"> The Gini coefficient of labor earnings
+            in Brazil fell by nearly a fifth between 1995 and 2012, from 0.50 to
+            0.41. The decline in earnings inequality was even larger by other
+            measures, with the 90-10 percentile ratio falling by almost 40
+            percent. Although the conventional explanation of a falling
+            education premium did play a role, an RIF regression-based
+            decomposition analysis suggests that the decline in returns to
+            potential experience was the main factor behind lower wage
+            disparities during the period. Substantial reductions in the gender,
+            race, informality and urban-rural wage gaps, conditional on human
+            capital and institutional variables, also contributed to the
+            decline. Although rising minimum wages were equalizing during
+            2003-2012, they had the opposite effects during 1995-2003, because
+            of declining compliance. Over the entire period, the direct effect
+            of minimum wages on inequality was muted. </div>
+          <p></p>
+          <p> <a href="assets/papers/CMU.pdf" target="_blank">The Expansion of
+              Higher Education in Colombia: Bad Students or Bad Programs?</a><br>
+            Adriana Camacho, Julián Messina and Juan Pablo Uribe <button type="button"
+
+              class="btn btn-link" data-toggle="collapse" data-target="#COLOMBIA">Abstract</button>
+          </p>
+          <div id="COLOMBIA" class="collapse"> A rapid expansion in the demand
+            for post-secondary education triggered an unprecedented boom of
+            higher education programs in Colombia, possibly deteriorating
+            quality. This paper uses rich administrative data matching school
+            admission information, socio-economic characteristics of the young
+            graduates, standardized test scores pre- and post-tertiary education
+            and entry wages, to assess the heterogeneity in the value added
+            generated by new higher education programs. Our ﬁndings show that
+            once we account for self-selection the penalty of attending a
+            recently created program, which initially appeared to be quite
+            large, becomes close to zero. </div>
+          <p></p>
+          <h4>WORK IN PROGRESS</h4>
+          <p> </p>
+          <p> Minimum Wages and the Uncovered Sector in Low and Middle Income
+            Countries<br>
+            Giulia Lotti, Julián Messina and Luca Nunziata <button type="button"
+
+              class="btn btn-link" data-toggle="collapse" data-target="#MWU">Abstract</button>
+          </p>
+          <div id="MWU" class="collapse"> We present new empirical evidence on
+            the implications of minimum wages for the uncovered sector in
+            developing countries, analyzing a unique dataset assembled from a
+            set of micro surveys collected in 59 low and middle income
+            countries. Our identiﬁcation strategy exploits relative bindingness
+            in minimum wages across labor market groups within countries and
+            years. The empirical ﬁndings show that a higher minimum wage is
+            associated with a larger self-employment share. The eﬀect is
+            approximately linear in the relative level of the minimum wage, even
+            if higher levels of minimum wages are associated with higher levels
+            of non-compliance. The estimated impact of the minimum wage on
+            informality is economically signiﬁcant: a 1 percentage point
+            increase in the minimum wage ratio is associated with a 0.204
+            percentage points increase in the self-employment rate. </div>
+          <p></p>
+          <p> The polarization hypothesis in Latin America: how demand forces
+            are shaping wage inequality?<br>
+            Julián Messina, Giovanni Pica and Ana María Oviedo <button type="button"
+
+              class="btn btn-link" data-toggle="collapse" data-target="#Polarization">Abstract</button>
+          </p>
+          <div id="Polarization" class="collapse"> The objective of the paper is
+            to document whether employment and wage polarization occurs in Latin
+            American countries. We measure the routine/abstract/manual content
+            of jobs in Latin American countries exploiting a novel survey
+            conducted in Bolivia, Colombia and El Salvador (STEP, Skills Towards
+            Employment and Productivity). Comparing task intensity scores in
+            those countries and the U.S. shows that while the abstract content
+            of jobs is similar in North- and South-America, the routine and
+            manual contents are diﬀerent. We speculate that the reason may be
+            that Latin American occupations comprise a more heterogeneous set of
+            tasks. Merging occupation-speciﬁc information on the task intensity
+            with individual-level data available for Mexico and Chile, we show
+            that employment polarization seems to take place in Chile but not in
+            Mexico during the 2000s. No evidence of wage polarization shows up.
+            Descriptive evidence from cross-sectional individual data on the
+            returns to skills in Mexico and Chile suggests that abstract and
+            manual tasks have positive returns, the latter being more pronounced
+            for older workers, while returns to routine tasks are negative. </div>
+          <p></p>
+          <p> Partial Identification of Treatment Effects in Observational Data
+            under Sample Selection: an Application to PISA Test Scores in
+            Argentina<br>
+            Dimitris Christelis and Julián Messina <button type="button" class="btn btn-link"
+
+              data-toggle="collapse" data-target="#Dimitris1">Abstract</button>
+          </p>
+          <div id="Dimitris1" class="collapse"> The identification of the causal
+            impact of parental education on children’s school performance is
+            affected by the endogeneity of parental education, as well as the
+            possibility of sample selection due to children dropping out of
+            school. We address both these issues using partial identification
+            methods that bound the causal effect of interest in observational
+            data under relatively mild assumptions. We apply our methods to
+            identify the causal impact of mothers’ education on children’s PISA
+            test scores in Argentina. We find that higher levels of maternal
+            education substantially increase children’s test scores in the
+            middle quantiles of the score distribution. </div>
+          <p></p>
+          <p> Downward Wage Rigidity, Unemployment and Informality. Evidence
+            from Brazil<br>
+            Julián Messina and Anna Sanz de Galdeano </p>
+        </div>
+      </div>
+      <!-- /row --> </div>
+    <!-- /container -->
+    <!-- +++++ Footer Section +++++ -->
+    <div id="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4">
+            <h4>My Address</h4>
+            <p> 1300 New York Ave NW,<br>
+              Washington, DC 20577<br>
+              USA.<br>
+              +1 (202) 623-1000 </p>
+          </div>
+          <!-- /col-lg-4 -->
+          <div class="col-lg-4">
+            <h4>My Email</h4>
+            <p> julianm"at"iadb.org </p>
+          </div>
+          <!-- /col-lg-4 --> </div>
+      </div>
+    </div>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="assets/js/bootstrap.min.js"></script>
+  </body>
+</html>

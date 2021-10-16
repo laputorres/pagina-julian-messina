@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="Julian Messina">
+    <link rel="shortcut icon" href="../../docs-assets/ico/favicon.png">
+    <title>Julian Messina </title>
+    <!-- Bootstrap core CSS -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="assets/css/main.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="assets/js/hover.zoom.js"></script>
+    <script src="assets/js/hover.zoom.conf.js"></script>
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body> <!-- Static navbar -->
+    <div class="navbar navbar-inverse navbar-static-top">
+      <div class="container">
+        <div class="navbar-header"> <button type="button" class="navbar-toggle"
+
+            data-toggle="collapse" data-target=".navbar-collapse"> <span class="icon-bar"></span>
+            <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+          <a class="navbar-brand" href="index.html">JULIÁN MESSINA</a> </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown"
+
+                href="#">Research <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="research.html">Papers by Topic</a></li>
+                <li><a href="publications.html">Publications</a></li>
+                <li><a href="wpapers.html">Working Papers</a></li>
+              </ul>
+            </li>
+            <li><a href="books.html">Books</a></li>
+            <li><a href="assets/papers/CVMessina1.pdf" target="_blank">CV</a></li>
+            <li><a href="mailto:julianm@iadb.org">Contact</a></li>
+          </ul>
+        </div>
+        <!--/.nav-collapse --> </div>
+    </div>
+    <!-- +++++ Projects Section +++++ -->
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 col-lg-offset-3 centered">
+          <h3>BOOKS</h3>
+          <hr>
+          <p> </p>
+        </div>
+      </div>
+     
+       <div class="row">
+        <div class="col-sm-4"><!--Column left-->
+          <p><a href="http://hdl.handle.net/10986/28682" target="_blank"><img class="img-responsive"
+
+                src="assets/img/9781464810398.pdf.jpg" alt=""></a></p>
+        </div>
+        <div class="col-sm-8"><!--Column right-->
+          <h4>ABSTRACT</h4>
+          <p> What caused the decline in wage inequality of the 2000s in Latin America? Looking to the future, 
+            will the current economic slowdown be regressive? Wage Inequality in Latin America: 
+            Understanding the Past to Prepare for the Future addresses these two questions by reviewing 
+            relevant literature and providing new evidence on what we know from the conceptual, empirical, 
+            and policy perspectives. The answer to the first question can be broken down into several parts,
+            although the bottom line is that the changes in wage inequality resulted from a combination of three forces:
+            (a) education expansion and its effect on falling returns to skill (the supply-side story); 
+            (b) shifts in aggregate domestic demand; and (c) exchange rate appreciation from the commodity boom and
+            the associated shift to the nontradable sector that changed interfirm wage differences. Other forces had 
+            a non-negligible but secondary role in some countries, while they were not present in others. These include
+            the rapid increase of the minimum wage and a rapid trend toward formalization of employment, which played a
+            supporting role but only during the boom. Understanding the forces behind recent trends also helps to shed light
+            on the second question. The analysis in this volume suggests that the economic slowdown is putting the brakes 
+            on the reduction of inequality in Latin America and will likely continue to do so—but it might not actually reverse 
+            the region’s movement toward less wage inequality. </p>
+          <p> <a href="http://hdl.handle.net/10986/28682" target="_blank">Download
+              the Book in English or Spanish</a> </p>
+        </div>
+      </div>
+      
+       <div class="row">
+        <div class="col-sm-4"><!--Column left-->
+          <p><a href="http://www.iadb.org/en/research-and-data/learning-better-public-policy-for-skills-development,20770.html" target="_blank"><img class="img-responsive"
+
+                src="assets/img/DIA2017.jpg" alt=""></a></p>
+        </div>
+        <div class="col-sm-8"><!--Column right-->
+          <h4>ABSTRACT</h4>
+          <p> The book contends that unless the region develops the skills of its labor force it will be
+            hard pressed to compete in today’s rapidly-changing, technological world. It recognizes that 
+            learning during the early years is vitally important but argues that learning opportunities are 
+            available throughout a lifetime. Importantly, it dismisses the notion that money is the only,
+            or even the main, answer. Instead, it suggests that a review of the evidence can point the way
+            toward cost-effective policies that better prepare citizens, firms, and countries to meet the 
+            challenges of an increasingly competitive economic environment. It reviews the relatively low 
+            level of skills in the region and the unequal distribution of those skills within countries. 
+            It summarizes the state of spending on skills and the incentives to pursue skills development,
+            and presents the case for evidence-based policies as the means to address the problem. Finally, 
+            it devotes 5 chapters to analyze the available evidence on skills development policies, highlighting
+            what works and what doesn’t across all stages of the life, from early childhood to adulthood.  </p>
+          <p> <a href="http://www.iadb.org/en/research-and-data/learning-better-public-policy-for-skills-development,20770.html" target="_blank">Download
+              the Book in English or Spanish</a> </p>
+        </div>
+      </div>
+      
+      <div class="row">
+        <div class="col-sm-4"><!--Column left-->
+          <p><a href="http://hdl.handle.net/10986/16457" target="_blank"><img class="img-responsive"
+
+                src="assets/img/entrepreneurs.jpg" alt=""></a></p>
+        </div>
+        <div class="col-sm-8"><!--Column right-->
+          <h4>ABSTRACT</h4>
+          <p> Entrepreneurship is a fundamental driver of growth, development,
+            and job creation. While Latin America and the Caribbean has a wealth
+            of entrepreneurs, firms in the region, compared to those in other
+            regions, are small in size and less likely to grow or innovate.
+            Productivity growth has remained lackluster for decades, including
+            during the recent commodity boom. Enhancing the creation of good
+            jobs and accelerating productivity growth in the region will require
+            dynamic entrepreneurs. This book studies the landscape of
+            entrepreneurship in Latin America and the Caribbean. Utilizing new
+            datasets that cover issues such as firm creation, firm dynamics,
+            export decisions, and the behavior of multinational corporations,
+            the book synthesizes the results of a comprehensive analysis of the
+            status, prospects, and challenges of entrepreneurship in the region.
+            Useful tools and information are provided to help policy makers and
+            practitioners identify policy areas governments can explore to
+            enhance innovation and encourage high-growth, transformational
+            entrepreneurship. </p>
+          <p> <a href="http://hdl.handle.net/10986/16457" target="_blank">Download
+              the Book in English or Spanish</a> </p>
+        </div>
+      </div>
+      <!-- /row -->
+      <div class="row">
+        <div class="col-sm-4"><!--Column left-->
+          <p><a href="http://hdl.handle.net/10986/11858" target="_blank"><img class="img-responsive"
+
+                src="assets/img/middle.jpg" alt=""></a></p>
+        </div>
+        <div class="col-sm-8"><!--Column right-->
+          <h4>ABSTRACT</h4>
+          <p> After decades of stagnation, the size of Latin America's middle
+            class recently expanded to the point where, for the first time ever,
+            the number of people in poverty is equal to the size of the middle
+            class. This volume investigates the nature, determinants and
+            possible consequences of this remarkable process of social
+            transformation. We propose an original definition of the middle
+            class, tailor-made for Latin America, centered on the concept of
+            economic security and thus a low probability of falling into
+            poverty. The continent has experienced a large amount of churning
+            over the last 15 years, at least 43% of all Latin Americans changed
+            social classes between the mid 1990s and the end of the 2000s.
+            Despite the upward mobility trend, intergenerational mobility, a
+            better proxy for inequality of opportunity, remains stagnant.
+            Educational achievement and attainment remain to be strongly
+            dependent upon parental education levels. Despite the recent growth
+            in pro-poor programs, the middle class has benefited
+            disproportionally from social security transfers and are
+            increasingly opting out from government services. Central to the
+            region's prospects of continued progress will be its ability to
+            harness the new middle class into a new, more inclusive social
+            contract, where the better-off pay their fair share of taxes, and
+            demand improved public services. </p>
+          <p> <a href="http://hdl.handle.net/10986/11858" target="_blank">Download
+              the Book in English or Spanish</a> </p>
+        </div>
+      </div>
+      <!-- /row --> </div>
+    <!-- /container -->
+    <!-- +++++ Footer Section +++++ -->
+    <div id="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4">
+            <h4>My Address</h4>
+            <p> 1300 New York Ave NW,<br>
+              Washington, DC 20577<br>
+              USA.<br>
+              +1 (202) 623-1000 </p>
+          </div>
+          <!-- /col-lg-4 -->
+          <div class="col-lg-4">
+            <h4>My Email</h4>
+            <p> julianm"at"iadb.org </p>
+          </div>
+          <!-- /col-lg-4 --> </div>
+      </div>
+    </div>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="assets/js/bootstrap.min.js"></script>
+  </body>
+</html>
