@@ -8,7 +8,6 @@
  */
 
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url("https://fonts.googleapis.com/css2?family=Special+Elite&display=swap");
 
 body {
   background-color: #ffffff;
@@ -17,7 +16,7 @@ body {
   font-size: 14px;
   color: #555;
   /* Color used in the page */
-  --primary-color: #1abc9c;
+  --primary-color: #0d4d29;
 
   -webkit-font-smoothing: antialiased;
   -webkit-overflow-scrolling: touch;
@@ -32,13 +31,14 @@ h5,
 h6 {
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
-  color: #333;
+  color: var(--primary-color);
 }
 
 h1 {
   font-size: 35px;
   margin-top: 30px;
   margin-bottom: 30px;
+  color: #333;
 }
 
 /* Paragraph & Typographic */
@@ -54,7 +54,7 @@ p {
 
 /* Links */
 a {
-  color:var(--primary-color);
+  color: var(--primary-color);
   word-wrap: break-word;
 
   -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -107,7 +107,7 @@ hr {
 }
 
 .navbar-inverse .navbar-nav > li > a {
-  color: white;
+  color: #fff;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover {
@@ -121,11 +121,8 @@ hr {
   font-family: cursive;
   color: #111 !important;
   border-bottom: 1px solid var(--primary-color);
-  text-shadow: -1px 1px 0 #fff,
-                          1px 1px 0 #fff,
-                         2px 2px 0 #fff,
-                        1px 1px 0 #fff;
-  }
+  text-shadow: -1px 1px 0 #fff, 1px 1px 0 #fff, 2px 2px 0 #fff, 1px 1px 0 #fff;
+}
 
 .navbar-inverse .navbar-brand {
   color: white;
@@ -138,6 +135,63 @@ hr {
 .progress-bar-theme {
   background-color: #1abc9c;
 }
+
+/* ARROWS VIEW MORE */
+.arrow-container {
+	display: block;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	top: 110%;
+	left: 50%;
+	transform: translate(-50%, -50%) rotateZ(0deg);
+}
+.arrow-container:hover {
+	cursor: pointer;
+}
+.arrow-container:hover .arrow {
+	top: 50%;
+}
+.arrow-container:hover .arrow:before {
+	transform: translate(-50%, -50%) rotateZ(-30deg);
+}
+.arrow-container:hover .arrow:after {
+	transform: translate(-50%, -50%) rotateZ(30deg);
+}
+.arrow {
+	position: absolute;
+	left: 50%;
+	transition: all 0.4s ease;
+	}
+.arrow:before, .arrow:after {
+	transition: all 0.4s ease;
+	content: '';
+	display: block;
+	position: absolute;
+	transform-origin: bottom right;
+	background: var(--primary-color);
+	width: 4px;
+	height: 50px;
+	border-radius: 10px;
+	transform: translate(-50%, -50%) rotateZ(-45deg);
+}
+.arrow:after {
+	transform-origin: bottom left;
+	transform: translate(-50%, -50%) rotateZ(45deg);
+}
+.arrow:nth-child(1) {
+	opacity: 0.3;
+	top: 35%;
+}
+.arrow:nth-child(2) {
+	opacity: 0.6;
+	top: 55%;
+}
+.arrow:nth-child(3) {
+	opacity: 0.9;
+	top: 75%;
+}
+
 
 /* Helpers */
 
@@ -153,42 +207,39 @@ hr {
 
 /* BANNER */
 .navbar svg {
-position: absolute;
-margin-top: -280px;
-z-index: -1;
+  position: absolute;
+  margin-top: -280px;
+  fill: #333;
+  z-index: -1;
 }
 
 .banner {
-	margin-top: 40px;
-	width: 100% !important;
+  margin-top: 40px;
+  width: 100% !important;
 }
 
+.banner_img-responsive {
+  margin: 10px 0 40px 50px;
 
-
-.img-responsive{
-	margin:10px 0 40px 0;
-	
   border-radius: 40px;
-  
-  }
-  
-  .im_title {
-	  font-weight: 600;
-	  font-size: 9vh;
-	  
-  }
-  
-  .im_title i {
-	  color: var(--primary-color);
-  }
+}
 
-  .banner_text {
-	padding-top: 10%;
-  }
+.im_title {
+  font-weight: 600;
+  font-size: 9vh;
+}
 
-  .banner_text p{
-	color: #fff;
-  }
+.im_title i {
+  color: var(--primary-color);
+}
+
+.banner_text {
+  padding-top: 10%;
+}
+
+.banner_text p {
+  color: #fff;
+}
 
 /* +++++ WRAP SECTIONS +++++ */
 
@@ -196,12 +247,49 @@ z-index: -1;
   padding-top: 70px;
   padding-bottom: 70px;
   background-color: #fff;
+  
 }
 
 #ww p {
 	text-align: justify;
-	font-family: "Special Elite", cursive;
-	color: #000 !important;
+  font-family: "Special Elite", cursive;
+  color: #000 !important;
+ 
+}
+
+#ww p img{
+	float: right;
+	
+}
+
+
+
+/* MY BOOKS SECTION PRINCIPAL PAGE */
+.my_books img{
+	margin-top: 20px;
+border: 1px solid;
+border-radius: 10px;
+box-shadow: rgba(0, 0, 0, 0.85) 0px 5px 15px;
+}
+
+.my_books-button{
+	margin-top: 15px;
+}
+
+.my_books-button button {
+	border: 1px solid;
+	padding: 2% 4%;
+	border-radius:10px ;
+	margin-top: 20px;
+	background: var(--primary-color);
+}
+
+.my_books-button a {
+	color: #fff;
+}
+
+.my_books-button button:hover {
+	background: #333 !important;
 }
 
 
@@ -297,4 +385,32 @@ bt {
 .glyphicon {
   font-size: 40px;
   color: #1abc9c;
+}
+
+
+/* WORK IN PROGRESS AND PAPERS */
+
+.work {
+	border: 1px solid;
+	margin: 1%;
+	border-top-right-radius: 50px;
+	border-bottom-left-radius: 50px;
+	
+	height: 110%;
+}
+
+.work_title{
+	text-align: center;
+	font-size: 5vh;	
+}
+
+.work p {
+	background: #fff;
+	margin: 0;
+	padding: 0;
+	padding-bottom: 50px;
+}
+
+#MWU p {
+	background: #fff;
 }
